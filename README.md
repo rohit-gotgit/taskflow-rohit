@@ -1,6 +1,6 @@
 # TaskFlow
 
-TaskFlow is a full-stack task management application built using Go, PostgreSQL, Docker, and React. It provides a structured system for managing projects and tasks with authentication and a modern UI.
+TaskFlow is a full-stack task management application built using Go, PostgreSQL, Docker, and React. It provides a structured system for managing projects and tasks with authentication and a modern U
 
 ---
 
